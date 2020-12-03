@@ -1,4 +1,7 @@
 # Advanced Lane Detection
+
+I am adding Qt pro , tested in Qt 5.15.0 and opencv 3.3.2 on ROS 
+
 >This project is to implement the lane detection algorithm by using C++ language, since many of them are implemented on Python.
 
 ***
